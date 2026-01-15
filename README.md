@@ -1,6 +1,6 @@
 # Tied In on TikTok: Tie Strength and Emotional Dynamics in Algorithmic Communities
 
-This repository contains supporting resources for our the paper Tied In on TikTok: Tie Strength and Emotional Dynamics in Algorithmic Communities
+This repository contains supporting resources for our paper Tied In on TikTok: Tie Strength and Emotional Dynamics in Algorithmic Communities
 
 It includes:
 
